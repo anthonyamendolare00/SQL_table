@@ -19,4 +19,4 @@ VALUES ('Frank', 'Hubert', 'Junior', 'Ronkonkoma', '30000'),
 	     ('Nicole', 'Hubert', 'Freshmen', 'Bohemia', '60000'),
 	     ('Anthony', 'Allen', 'Senior', 'Oakdale', '120000') /* inserts the values into the columns */
        
-SELECT new_students FROM students 
+SELECT new_students FROM students /* gets the table */
